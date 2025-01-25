@@ -1,0 +1,6 @@
+pynput
+smtplib
+ssl
+cryptography
+psutil
+schedule
